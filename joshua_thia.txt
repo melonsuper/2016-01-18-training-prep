@@ -1,0 +1,7 @@
+Hi. I'm Joshua Thia.
+
+I'm a UQ student, working towards my PhD in marine evolutionary ecology.
+
+My work uses a combination of multidimensional statistics and bioinformatics.
+
+I have self taught myself R, Python and Linux; not an expert, but proficient.
